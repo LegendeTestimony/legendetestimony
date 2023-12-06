@@ -2358,9 +2358,7 @@ a, a:visited, a:hover {
           align-items: center; /* Center the items vertically */
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  min-height: 55rem;
-  padding-top: 10rem;
-  padding-bottom: 5rem;
+  min-height: 50rem;
 }
 
 .blog-post {
