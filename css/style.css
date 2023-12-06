@@ -1935,6 +1935,8 @@ a, a:visited, a:hover {
   white-space: nowrap;
   background-color: lightgray;
   min-height: 19rem;
+  display: flex;
+  justify-content: center;
 }
 .horizontalscroll .scroll-container::-webkit-scrollbar {
   display: none;
