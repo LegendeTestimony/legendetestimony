@@ -1136,6 +1136,7 @@ body {
   font-size: 1.2rem;
   color: #E6E7E8;
   line-height: 1.3;
+  overflow: hidden;
   overflow: scroll; /* or 'auto' */
   scrollbar-width: thin; /* for Firefox */
   -ms-overflow-style: none; /* for Internet Explorer and Edge */
